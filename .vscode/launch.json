@@ -12,11 +12,10 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/XIAO/firmware.elf",
-            "projectEnvName": "XIAO",
-            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/Mega/firmware.elf",
+            "projectEnvName": "Mega",
+            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
-            "svdPath": "C:/Users/MarcoEquisetto/.platformio/platforms/Seeed Studio/misc/svd/nrf52840.svd",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -26,21 +25,19 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/XIAO/firmware.elf",
-            "projectEnvName": "XIAO",
-            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "internalConsoleOptions": "openOnSessionStart",
-            "svdPath": "C:/Users/MarcoEquisetto/.platformio/platforms/Seeed Studio/misc/svd/nrf52840.svd"
+            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/Mega/firmware.elf",
+            "projectEnvName": "Mega",
+            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-atmelavr/bin",
+            "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/XIAO/firmware.elf",
-            "projectEnvName": "XIAO",
-            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "executable": "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/build/Mega/firmware.elf",
+            "projectEnvName": "Mega",
+            "toolchainBinDir": "C:/Users/MarcoEquisetto/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
-            "svdPath": "C:/Users/MarcoEquisetto/.platformio/platforms/Seeed Studio/misc/svd/nrf52840.svd",
             "loadMode": "manual"
         }
     ]

@@ -10,7 +10,6 @@
             "includePath": [
                 "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/include",
                 "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/src",
-                "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/libdeps/XIAO/ONO-SENSE",
                 "C:/Users/MarcoEquisetto/.platformio/packages/framework-cmsis/CMSIS/Core/Include",
                 "C:/Users/MarcoEquisetto/.platformio/packages/framework-cmsis/CMSIS/DSP/Include",
                 "C:/Users/MarcoEquisetto/.platformio/packages/framework-arduinoadafruitnrf52/cores/nRF5/nordic",
@@ -72,7 +71,6 @@
                 "path": [
                     "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/include",
                     "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/src",
-                    "C:/Users/MarcoEquisetto/Documents/PlatformIO/Projects/ONO-SENSE/.pio/libdeps/XIAO/ONO-SENSE",
                     "C:/Users/MarcoEquisetto/.platformio/packages/framework-cmsis/CMSIS/Core/Include",
                     "C:/Users/MarcoEquisetto/.platformio/packages/framework-cmsis/CMSIS/DSP/Include",
                     "C:/Users/MarcoEquisetto/.platformio/packages/framework-arduinoadafruitnrf52/cores/nRF5/nordic",
